@@ -1,0 +1,20 @@
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\bin\Debug\Lab6.exe.config
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\bin\Debug\Lab6.exe
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\bin\Debug\Lab6.pdb
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.exe
+Z:\Q4\SE245.04 C#\Week7\Lab6 - Part 3\Lab6\Lab6\obj\Debug\Lab6.pdb
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\bin\Debug\Lab6.exe.config
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.exe
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.pdb
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\bin\Debug\Lab6.exe
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\bin\Debug\Lab6.pdb
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.Form1.resources
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.controls.resources
+Z:\Q4\SE245.04 C#\Week8\Lab7\Lab6\Lab6\obj\Debug\Lab6.searchWindow.resources
