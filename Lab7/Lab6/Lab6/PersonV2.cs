@@ -175,8 +175,8 @@ namespace Lab6
             //opens a connection
             conn.Open();
 
-            //
-            //da.Fill(ds, "Person_Temp");
+            
+            da.Fill(ds, "Person_Temp");
             conn.Close();
 
             return ds;            
@@ -184,29 +184,38 @@ namespace Lab6
 
         public SqlDataReader FindOnePerson(int intPersonID)
         {
+            //creates new connection and command variables
             SqlConnection conn = new SqlConnection();
             SqlCommand comm = new SqlCommand();
 
+            //sets connection = to getconnected function
             string strConn = @GetConnected();
 
+            //creates a string that contains a SQL command
             string sqlString = "SELECT * FROM Table_1 WHERE PersonID = @PersonID;";
 
+            //connects to the my database
             conn.ConnectionString = strConn;
 
+            //following lines send the SQL command to the database
             comm.Connection = conn;
             comm.CommandText = sqlString;
             comm.Parameters.AddWithValue("@PersonID", intPersonID);
 
+            //opens a connection
             conn.Open();
 
+            //returns value to where the function was called from
             return comm.ExecuteReader();
         }
 
+        //function that returns the connection string, so it doesn't have to be retyped/copy and pasted over and over again
         private String GetConnected()
         {
             return "Server=sql.neit.edu,4500;Database=SE245_CPeloso;User Id=SE245_CPeloso;Password=008000399;";
         }
 
+        //constructor
         public PersonV2(): base()
         {
             cellPhone = "";
